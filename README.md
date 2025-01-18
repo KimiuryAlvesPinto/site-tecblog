@@ -10,7 +10,7 @@
 
 <h2>💻Descrição</h2>
 
-Projeto 02 desenvolvido como um blog, afim de informar as novidades da área de tecnologia. O prototipo possui páginas Home, Jogos, Celulares, Informática e Eletrônicos e, também, foi adicionado fotos para contextualização.
+Projeto/prototipo 02 desenvolvido como um blog, afim de informar as novidades da área de tecnologia. O prototipo possui páginas Home, Jogos, Celulares, Informática e Eletrônicos e, também, foi adicionado fotos para contextualização.
 
 <h2>💻Funcionalidades</h2>
 
